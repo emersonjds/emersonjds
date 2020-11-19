@@ -2,6 +2,8 @@
 
 I'm a {frontend and mobile} developer.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emersonjds)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are my networks
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emersonjds)](https://github.com/emersonjds)
