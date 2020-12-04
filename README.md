@@ -19,8 +19,9 @@ I'm a {frontend and mobile} developer.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=emersonjds&layout=compact&theme=midnight-purple" />
 </a>
 
+<hr />
 
-Here are my networks
+**Here my networks:**  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emersonjds)](https://github.com/emersonjds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-silva/)](https://www.linkedin.com/in/emerson-silva/)
