@@ -4,14 +4,6 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<a href="https://github.com/emersonjds">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=210&section=header&text=Emerson%20Silva&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Specialist%20%E2%80%A2%20Focus%20on%20Product%20Engineering&descSize=18&descAlignY=60&animation=fadeIn"
-    alt="Emerson Silva — Frontend & Mobile Specialist · Focus on Product Engineering"
-  />
-</a>
-
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  TAGLINE (static)  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <h3 align="center">Challenges are the job — and I love solving them ⚡</h3>
