@@ -125,21 +125,25 @@ const emerson = {
 
 ## 📊 GitHub Analytics
 
-<table align="center" width="100%" border="0" cellspacing="4" cellpadding="0">
-  <tr>
-    <td align="center" width="36%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=emersonjds&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&cache_seconds=7200" alt="GitHub stats" />
-    </td>
-    <td align="center" width="28%">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjds&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
-    </td>
-     <td align="center" width="36%">
-    <img height="165" src="https://streak-stats.demolab.com/?user=emersonjds&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5
-  CF6&currStreakLabel=A78BFA&stroke=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&titleColor=A78BFA&cac
-  he_seconds=3600&_t=1" alt="GitHub streak" />
-  </td>
-  </tr>
-</table>
+ <table align="center" width="100%" border="0" cellspacing="4" cellpadding="0">
+    <tr>
+      <td align="center" width="36%">
+        <img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=emersonjds&show_icons=true&include_all_commits=true&count_private=true&hi
+  de_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&cache_seconds=7200"
+  alt="GitHub stats" />
+      </td>
+      <td align="center" width="28%">
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjds&layout=compact&langs_count=
+  8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=7200" alt="Most used languages" />
+      </td>
+      <td align="center" width="36%">
+        <img height="165" src="https://streak-stats.demolab.com/?user=emersonjds&hide_border=true&background=0D1117&ring=8B5CF6&fire
+  =8B5CF6&currStreakLabel=A78BFA&stroke=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&titleColor=A78BFA
+  &cache_seconds=3600&_t=1" alt="GitHub streak" />
+      </td>
+    </tr>
+  </table>
 
 <!-- Linha de contribuição (lines / activity) -->
 <p align="center">
