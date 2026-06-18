@@ -4,6 +4,14 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
+<a href="https://github.com/emersonjds">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=210&section=header&text=Emerson%20Silva&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Specialist%20%E2%80%A2%20Focus%20on%20Product%20Engineering&descSize=18&descAlignY=60&animation=fadeIn"
+    alt="Emerson Silva — Frontend & Mobile Specialist · Focus on Product Engineering"
+  />
+</a>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  TAGLINE (static)  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <h3 align="center">Challenges are the job — and I love solving them ⚡</h3>
@@ -11,6 +19,8 @@
 <p align="center">
   <i>I build fast, accessible <b>web &amp; mobile</b> products — obsessed with performance, UX, and DX across every layer.</i>
 </p>
+
+---
 
 ## 👨🏾‍💻 About me
 
@@ -125,25 +135,19 @@ const emerson = {
 
 ## 📊 GitHub Analytics
 
- <table align="center" width="100%" border="0" cellspacing="4" cellpadding="0">
-    <tr>
-      <td align="center" width="36%">
-        <img height="165"
-  src="https://github-readme-stats.vercel.app/api?username=emersonjds&show_icons=true&include_all_commits=true&count_private=true&hi
-  de_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&cache_seconds=7200"
-  alt="GitHub stats" />
-      </td>
-      <td align="center" width="28%">
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjds&layout=compact&langs_count=
-  8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=7200" alt="Most used languages" />
-      </td>
-      <td align="center" width="36%">
-        <img height="165" src="https://streak-stats.demolab.com/?user=emersonjds&hide_border=true&background=0D1117&ring=8B5CF6&fire
-  =8B5CF6&currStreakLabel=A78BFA&stroke=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&titleColor=A78BFA
-  &cache_seconds=3600&_t=1" alt="GitHub streak" />
-      </td>
-    </tr>
-  </table>
+<table align="center" width="100%" border="0" cellspacing="4" cellpadding="0">
+  <tr>
+    <td align="center" width="36%">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=emersonjds&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&cache_seconds=7200" alt="GitHub stats" />
+    </td>
+    <td align="center" width="28%">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjds&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
+    </td>
+    <td align="center" width="36%">
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=emersonjds&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA&stroke=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&titleColor=A78BFA" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 <!-- Linha de contribuição (lines / activity) -->
 <p align="center">
