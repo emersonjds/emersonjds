@@ -12,17 +12,6 @@
   <i>I build fast, accessible <b>web &amp; mobile</b> products — obsessed with performance, UX, and DX across every layer.</i>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  QUICK CONTEXT BADGES  ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20%26%20React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="specialty" />
-  <img src="https://img.shields.io/badge/11%2B%20Years%20Experience-7C3AED?style=for-the-badge" alt="experience" />
-  <img src="https://img.shields.io/badge/Coding%20Since%202015-4F46E5?style=for-the-badge" alt="coding since 2015" />
-  <img src="https://img.shields.io/badge/Brazil%20%F0%9F%87%A7%F0%9F%87%B7-06B6D4?style=for-the-badge" alt="location" />
-</p>
-
----
-
 ## 👨🏾‍💻 About me
 
 ```ts
